@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import ProductItem from "./components/product/productItem";
 
-//
+
 class App extends Component {
   render() {
     return (
